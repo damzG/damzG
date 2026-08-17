@@ -15,13 +15,6 @@
 - **Database:** MySQL,  MongoDB
 - **Other:** JavaFX, Bootstrap, Tailwind CSS
 
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Let's Connect
 - Email: oyindamolaolasoun8@gmail.com
