@@ -20,7 +20,7 @@
 - Email: [!@oyindamolaolaosun](oyindamolaolasoun8@gmail.com)
 - LinkedIn: [!Oyindamola_Olaosun](https://www.linkedin.com/in/oyindamola-olaosun-1554b0327/)
 - Portfolio: [!DamzG](https://damzg.github.io/Damz-Personal-Portfolio/)
-- Certication: [![GitHub Foundations](https://shields.io)](https://microsoft.com)
+- Certication: [![GitHub Foundations](https://learn.microsoft.com/api/credentials/share/en-us/StudentC00313475OyindamolaOlaosun-7752/40D74D78B73B0915?sharingId=8DD0C96175CC8854)
 
 
 ### Technolgies Learnt
