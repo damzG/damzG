@@ -17,10 +17,14 @@
 
 
 ### 📫 Let's Connect
-- Email: oyindamolaolasoun8@gmail.com
-- LinkedIn: https://www.linkedin.com/in/oyindamola-olaosun-1554b0327/
-- Portfolio: Incoming
+- Email: [!@oyindamolaolaosun](oyindamolaolasoun8@gmail.com)
+- LinkedIn: [!Oyindamola_Olaosun](https://www.linkedin.com/in/oyindamola-olaosun-1554b0327/)
+- Portfolio: [!DamzG](https://damzg.github.io/Damz-Personal-Portfolio/)
+- Certication: [![GitHub Foundations](https://shields.io)](https://microsoft.com)
 
+
+### Technolgies Learnt
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
 ---
 
 _Thanks for visiting! 🌟_
