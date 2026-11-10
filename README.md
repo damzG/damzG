@@ -5,6 +5,7 @@
 🎓 I'm currently a student at South East Technological University.  
 🚀 Currently working on: Full stack software development  
 🌱 Currently learning: Python, Flask, Django
+
 🔜 Upcoming projects: Anti-Betting Application, AirBnb / Shortlet modern app 
 
 ---👨‍💻
