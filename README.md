@@ -8,7 +8,8 @@
 
 🔜 Upcoming projects: Anti-Betting Application, AirBnb / Shortlet modern app 
 
----👨‍💻 !(https://www.codewars.com/users/damzG/badges/large)
+---👨‍💻   ![Codewars](https://www.codewars.com/users/damzG/badges/large)
+
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, Python, C/C++, Flutter
